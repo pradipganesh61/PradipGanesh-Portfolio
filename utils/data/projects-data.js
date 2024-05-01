@@ -8,7 +8,7 @@ export const projectsData = [
         id: 1,
         name: 'Patient Rating',
         description: "Patients Rating is a critical project developed during the height of the COVID-19 pandemic for one of the leading pharmaceutical clients in the United States. This innovative platform assesses and rates the severity of patient infections, providing invaluable data insights. By aggregating and analyzing patient data, the project aims to offer a comprehensive understanding of the pandemic's impact, aiding healthcare professionals in managing and combating the virus effectively.",
-        tools: ['ReactJS', 'TypeScript', 'SharePoint', 'Redux', 'Rest API', ".NET Core", 'Azure'],
+        tools: ['ReactJS', 'TypeScript', 'SharePoint', 'Redux', 'PHP', 'Rest API', 'Azure'],
         code: '',
         demo: '',
         image: ayla,
