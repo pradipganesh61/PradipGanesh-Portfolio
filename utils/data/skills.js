@@ -10,12 +10,15 @@ export const skillsData = [
   'C#',
   '.NetCore',
   'MySQL',
-  'SQL',
   'MongoDB',
   'Git',
-  'Azure',
-  'Python',
   'Angular',
+  'Docker',
+  'Java',
+  'PostgreSQL',
+  'AWS',
+  
+  
   // 'Nginx',
   // 'Strapi',
   // 'Next JS',
