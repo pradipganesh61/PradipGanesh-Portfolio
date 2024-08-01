@@ -74,7 +74,7 @@ import wordpress from '/public/svg/skills/wordpress.svg';
 import sharepoint from '/public/svg/skills/sharepoint.svg';
 import dotnetcore from '/public/svg/skills/dotnetcore.svg';
 import python from '/public/svg/skills/python.svg';
-import python from '/public/svg/skills/springboot.svg';
+import springboot from '/public/svg/skills/springboot.svg';
 import hibernate from '/public/svg/skills/hibernate.svg';
 
 export const skillsImage = (skill) => {
