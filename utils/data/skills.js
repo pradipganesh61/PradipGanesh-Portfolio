@@ -1,4 +1,6 @@
 export const skillsData = [
+  'Java',
+  'SpringBoot',
   'HTML',
   'CSS',
   'Bootstrap',
@@ -14,7 +16,7 @@ export const skillsData = [
   'Git',
   'Angular',
   'Docker',
-  'Java',
+  
   'PostgreSQL',
   'AWS',
   
