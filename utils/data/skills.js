@@ -1,6 +1,8 @@
 export const skillsData = [
   'Java',
-  'springboot',
+  'SpringBoot',
+  'Hibernate',
+  'Kafka',
   'HTML',
   'CSS',
   'Bootstrap',
