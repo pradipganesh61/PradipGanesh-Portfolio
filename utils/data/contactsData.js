@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'pradipganesh61@gmail.com',
-    phone: '+1 (605) 910-1585',
-    address: 'Vermillion, South Dakota, USA - 57069',
+    email: 'pradipganesh90@gmail.com',
+    phone: '+1 (703) 659-2898',
+    address: 'Centreville, Virginia',
     github: 'https://github.com/pradipganesh61',
     facebook: 'https://www.facebook.com/pradipganesh61/',
     linkedIn: 'https://www.linkedin.com/in/pradip-ganesh/',
