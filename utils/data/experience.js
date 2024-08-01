@@ -13,26 +13,26 @@ export const experiences = [
   },
   {
     id: 3,
-    title: 'Senior Software Engineer',
-    company: "Infosys Limited",
+    title: 'Infosys Limited',
+    company: "Senior Software Engineer",
     duration: "Oct. 2021 - Aug. 2022"
   },
   {
     id: 4,
-    title: 'Software Engineer',
-    company: "Infosys Limited",
+    title: 'Infosys Limited',
+    company: "Software Engineer",
     duration: "Aug. 2019 - Oct. 2021"
   },
   {
     id: 5,
-    title: "Software Engineer Intern",
-    company: "Infosys Limited",
+    title: "Infosys Limited",
+    company: "Software Engineer Intern",
     duration: "Jan 2019 - May 2019"
   },
   {
     id: 6,
-    title: "Summer Intern",
-    company: "Manipal Institute of Technology (MIT)",
+    title: "Manipal Institute of Technology (MIT)",
+    company: "Summer Intern",
     duration: "Jun 2017 - July 2017"
   }
 ]
