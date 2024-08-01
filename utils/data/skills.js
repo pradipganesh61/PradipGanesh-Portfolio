@@ -3,6 +3,7 @@ export const skillsData = [
   'SpringBoot',
   'Hibernate',
   'Kafka',
+  'JUnit',
   'HTML',
   'CSS',
   'Bootstrap',
