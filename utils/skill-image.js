@@ -77,7 +77,7 @@ import python from '/public/svg/skills/python.svg';
 import springboot from '/public/svg/skills/springboot.svg';
 import hibernate from '/public/svg/skills/hibernate.svg';
 import kafka from '/public/svg/skills/kafka.svg';
-import JUnit from '/public/svg/skills/JUnit.svg';
+import junit from '/public/svg/skills/JUnit.svg';
 import kubernetes from '/public/svg/skills/kubernetes.svg';
 
 export const skillsImage = (skill) => {
@@ -241,8 +241,8 @@ export const skillsImage = (skill) => {
       return hibernate;
     case 'kafka':
       return kafka;
-    case 'JUnit':
-      return JUnit;
+    case 'junit':
+      return junit;
     case 'kubernetes':
       return kubernetes;
     default:
