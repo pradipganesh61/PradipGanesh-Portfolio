@@ -77,6 +77,7 @@ import python from '/public/svg/skills/python.svg';
 import springboot from '/public/svg/skills/springboot.svg';
 import hibernate from '/public/svg/skills/hibernate.svg';
 import kafka from '/public/svg/skills/kafka.svg';
+import JUnit from '/public/svg/skills/JUnit.svg';
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -239,6 +240,8 @@ export const skillsImage = (skill) => {
       return hibernate;
     case 'kafka':
       return kafka;
+    case 'JUnit':
+      return JUnit;
     default:
       break;
   }
