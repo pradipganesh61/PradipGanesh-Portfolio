@@ -75,6 +75,7 @@ import sharepoint from '/public/svg/skills/sharepoint.svg';
 import dotnetcore from '/public/svg/skills/dotnetcore.svg';
 import python from '/public/svg/skills/python.svg';
 import python from '/public/svg/skills/springboot.svg';
+import hibernate from '/public/svg/skills/hibernate.svg';
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -233,6 +234,8 @@ export const skillsImage = (skill) => {
       return dotnetcore;
     case 'springboot':
       return springboot;
+    case 'hibernate':
+      return hibernate;
     default:
       break;
   }
