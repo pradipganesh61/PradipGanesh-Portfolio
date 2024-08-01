@@ -125,7 +125,7 @@ export const skillsImage = (skill) => {
       return mongoDB;
     case 'mysql':
       return mysql;
-    case 'sql':
+    case 'postgresql':
       return postgresql;
     case 'tailwind':
       return tailwind;
