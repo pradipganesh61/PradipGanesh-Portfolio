@@ -74,7 +74,7 @@ import wordpress from '/public/svg/skills/wordpress.svg';
 import sharepoint from '/public/svg/skills/sharepoint.svg';
 import dotnetcore from '/public/svg/skills/dotnetcore.svg';
 import python from '/public/svg/skills/python.svg';
-import python from '/public/svg/skills/SpringBoot.svg';
+import python from '/public/svg/skills/springboot.svg';
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -231,8 +231,8 @@ export const skillsImage = (skill) => {
       return sharepoint;
     case '.netcore':
       return dotnetcore;
-    case 'SpringBoot':
-      return SpringBoot;
+    case 'springboot':
+      return springboot;
     default:
       break;
   }
