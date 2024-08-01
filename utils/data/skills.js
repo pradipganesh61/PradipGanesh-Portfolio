@@ -15,6 +15,7 @@ export const skillsData = [
   'Git',
   'Azure',
   'Python',
+  'Angular',
   // 'Nginx',
   // 'Strapi',
   // 'Next JS',
