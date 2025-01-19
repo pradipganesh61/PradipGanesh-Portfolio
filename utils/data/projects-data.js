@@ -6,7 +6,7 @@ import travel from '/public/image/travel.jpg';
 export const projectsData = [
     {
         id: 1,
-        name: 'Support Pass Through-Child Care Application',
+        name: 'SPT - Child Care Application',
         description: "I developed a Java-based Support Pass-Through Child-Care application integrated with the Commonwealth of Pennsylvania's eCIS system, collaborating with 17 other teams to streamline processes for residents and vendors. Using Java 17 and Oracle, I built a robust back-end to handle complex eligibility calculations and business rule validations. I also created a responsive, user-friendly front-end with React, ensuring compliance with state and federal regulations. This resulted in a 20% reduction in latency, improved data processing efficiency, and enhanced user experience, all while maintaining strict security standards.",
         tools: ['ReactJS', 'Java', 'Spring Boot', 'TypeScript', 'Redux', 'Rest API', 'Oracle'],
         code: '',
