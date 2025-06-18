@@ -5,18 +5,18 @@ export const experiences = [
     company: "Software Engineer",
     duration: "Sep. 2024 - Present"
   },
-  {
-    id: 2,
-    title: 'Carta',
-    company: "Full-Stack Developer",
-    duration: "Jul. 2023 - Sep. 2024"
-  },
-  {
-    id: 3,
-    title: 'UnitedHealth Group',
-    company: "Full-Stack Software Engineer",
-    duration: "Dec. 2022 - Jun. 2023"
-  },
+  // {
+  //   id: 2,
+  //   title: 'Carta',
+  //   company: "Full-Stack Developer",
+  //   duration: "Jul. 2023 - Sep. 2024"
+  // },
+  // {
+  //   id: 3,
+  //   title: 'UnitedHealth Group',
+  //   company: "Full-Stack Software Engineer",
+  //   duration: "Dec. 2022 - Jun. 2023"
+  // },
   {
     id: 4,
     title: 'Infosys Limited',
