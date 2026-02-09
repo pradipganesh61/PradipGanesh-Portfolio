@@ -20,19 +20,19 @@ export const experiences = [
   {
     id: 4,
     title: 'Infosys Limited',
-    company: "Senior Software Engineer",
-    duration: "Oct. 2021 - Aug. 2022"
+    company: "Senior Systems Engineer",
+    duration: "Oct. 2021 - Jul. 2022"
   },
   {
     id: 5,
     title: 'Infosys Limited',
-    company: "Software Engineer",
+    company: "Systems Engineer",
     duration: "Aug. 2019 - Oct. 2021"
   },
   {
     id: 6,
     title: "Infosys Limited",
-    company: "Software Engineer Intern",
+    company: "Systems Engineer Intern",
     duration: "Jan 2019 - May 2019"
   },
   {
