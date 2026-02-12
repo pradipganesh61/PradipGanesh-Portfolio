@@ -38,7 +38,7 @@ export const projectsData = [
         id: 4,
         name: 'Innovation Engine',
         description: "The Innovation Engine is like a smart web application that helps doctors and researchers share their new ideas about medicine. It costs $150,000 to make and is built using a technology called React.js and SharePoint. It collects all sorts of medical ideas from different places and puts them in one easy-to-find spot. People can talk about these ideas and decide which ones are the best. The application also helps make sure everything is safe and follows the rules about medical information. It's easy to use and works well even if lots of people are using it at the same time. Overall, it helps doctors and researchers make better decisions about new medical discoveries.",
-        tools: ['ReactJS', 'Java', 'Redux', 'Rest API', 'AWS'],
+        tools: ['ReactJS', '.NET Core', 'Redux', 'Rest API', 'Azure'],
         code: '',
         demo: '',
         image: ayla,
